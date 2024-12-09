@@ -1,4 +1,4 @@
-package generic;
+package javas.generic;
 
 public class GenericMethod<T> {
 

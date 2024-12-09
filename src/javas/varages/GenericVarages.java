@@ -1,4 +1,4 @@
-package varages;
+package javas.varages;
 
 public class GenericVarages {
     @SafeVarargs// Generic과 Varages를 함께 사용할때 경고를 억제시킴

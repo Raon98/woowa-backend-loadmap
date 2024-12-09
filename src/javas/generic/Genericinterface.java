@@ -1,4 +1,4 @@
-package generic;
+package javas.generic;
 
 interface Pair<K,V> {
      K getkey();

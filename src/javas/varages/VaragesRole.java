@@ -1,4 +1,4 @@
-package varages;
+package javas.varages;
 
 public class VaragesRole {
     public static void main(String[] args) {
